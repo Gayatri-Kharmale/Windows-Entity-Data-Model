@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Windows Entity Data Model", "Windows Entity Data Model\Windows Entity Data Model.csproj", "{3504D38B-2659-4370-94E6-BE9FDEB887F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3504D38B-2659-4370-94E6-BE9FDEB887F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3504D38B-2659-4370-94E6-BE9FDEB887F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3504D38B-2659-4370-94E6-BE9FDEB887F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3504D38B-2659-4370-94E6-BE9FDEB887F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {610A4612-952F-4A5A-90B4-8B9C43527A0A}
+	EndGlobalSection
+EndGlobal
